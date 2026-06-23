@@ -158,14 +158,6 @@ resume_analyzer/
 
 ---
 
-# ⚖️ Limitations
-
-- Skill extraction is rule-based
-- No deep contextual understanding
-- Limited to predefined skill sets
-- Can be improved using BERT / LLMs
-
----
 
 # 🚀 Future Improvements
 
@@ -192,17 +184,4 @@ Built as a NLP + Machine Learning portfolio project demonstrating:
 - ML pipeline understanding
 - Real-world problem solving
 - AI application development
-
----
-
-# 🧠 Interview Q&A
-
-### ❓ Why TF-IDF?
-Used to convert text into numerical form for similarity comparison.
-
-### ❓ Why Cosine Similarity?
-Measures similarity between two text vectors efficiently.
-
-### ❓ Can it be improved?
-Yes, using BERT or LLM embeddings for deeper semantic understanding.
 
