@@ -114,6 +114,8 @@ Used for frontend interface.
 
 # 📁 Project Structure
 
+
+
 resume_analyzer/
 │
 ├── app.py
