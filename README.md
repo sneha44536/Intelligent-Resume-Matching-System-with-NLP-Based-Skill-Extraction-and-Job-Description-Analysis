@@ -35,6 +35,10 @@ In traditional hiring systems:
 
 ---
 
+**Objective:**
+To develop an AI-powered system that uses NLP and Machine Learning to analyze resumes, extract skills and relevant information, and match candidates with suitable job requirements, reducing manual resume screening effort.
+
+
 # ⚙️ How the System Works
 
 1. User uploads a **PDF resume**
