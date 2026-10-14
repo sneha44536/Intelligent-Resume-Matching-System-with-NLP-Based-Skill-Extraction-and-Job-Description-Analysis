@@ -14,9 +14,7 @@ The **AI-Powered Resume Analyzer** is an intelligent NLP-based system designed t
 The system uses **Natural Language Processing (NLP) techniques and Machine Learning concepts like TF-IDF and Cosine Similarity** to understand textual similarity between resumes and job descriptions.
 
 This project demonstrates how AI can automate **recruitment screening and candidate-job matching**, reducing manual HR effort and improving hiring efficiency.
-
 ---
-
 # 🚀 Problem Statement
 
 In traditional hiring systems:
