@@ -6,7 +6,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF8C00?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Intelligent%20System-purple?style=for-the-badge)
-
 -
 # 📌 Project Overview
 
@@ -48,11 +47,8 @@ To develop an AI-powered system that uses NLP and Machine Learning to analyze re
 6. TF-IDF converts text into numerical vectors
 7. Cosine similarity calculates match score
 8. Output is displayed using Streamlit UI
-
----
-
+--
 # 🧠 Why These Techniques Are Used
-
 ## 📌 PDF Text Extraction (PyPDF2)
 Used to extract raw text from resume PDFs.
 
