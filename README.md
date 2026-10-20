@@ -82,6 +82,9 @@ Converts text into numerical format.
 
 ---
 
+
+
+
 ## 📌 Cosine Similarity
 Used to calculate similarity score.
 
