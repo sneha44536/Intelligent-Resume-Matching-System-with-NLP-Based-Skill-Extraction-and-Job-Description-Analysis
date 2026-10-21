@@ -169,9 +169,6 @@ resume_analyzer/
 - Downloadable PDF report
 
 ---
-
-
-
 # 🧑‍💻 Author
 
 Built as a NLP + Machine Learning portfolio project demonstrating:
