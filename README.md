@@ -8,7 +8,10 @@
 -
 # 📌 Project Overview
 
-The **AI-Powered Resume Analyzer** is an intelligent NLP-based system designed to analyze resumes (PDF format) and compare them with job descriptions to generate a **skill match score and missing skill insights**.
+
+
+
+The *****AI-Powered Resume Analyzer** is an intelligent NLP-based system designed to analyze resumes (PDF format) and compare them with job descriptions to generate a **skill match score and missing skill insights**.
 
 The system uses **Natural Language Processing (NLP) techniques and Machine Learning concepts like TF-IDF and Cosine Similarity** to understand textual similarity between resumes and job descriptions.
 
